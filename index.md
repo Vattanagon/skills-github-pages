@@ -1,7 +1,3 @@
 ---
-title: Welcome to my blog
+title: what the hell am doing here
 ---
-
-# HEllO WORLD
-### what the hell am doing here
-
