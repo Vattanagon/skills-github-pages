@@ -5,10 +5,6 @@ title: what the hell am doing here
 date: 2023-09-11
 ---
 
---- python
-print("Depression Suck")
----
-
 - [ ] I have absalute no idea what the hell i am doing
 - [ ] I always felt guilty
 - [ ] What have I done
