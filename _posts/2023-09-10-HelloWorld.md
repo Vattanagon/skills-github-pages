@@ -1,6 +1,6 @@
 ---
 title: "HelloWorld"
-date: 2023-09-11
+date: 2023-09-10
 ---
 
 # Goddamn it
