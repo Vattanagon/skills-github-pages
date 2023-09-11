@@ -6,7 +6,7 @@ date: 2023-09-11
 ---
 
 --- python
-print("Depression Suck")
+print("Depression Suck") '\n'
 print("Where is the end of all this")
 ---
 
